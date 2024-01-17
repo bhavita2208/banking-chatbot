@@ -1,0 +1,203 @@
+{
+  "content": [
+    {
+      "tag": "greetings",
+      "questions": [
+        "Hello",
+        "Hi",
+        "how are you"
+      ],
+      "answers": [
+        "hello, welcome to titans bot",
+        "hi",
+        "how may i help you",
+        "I am good.how are you"
+      ]
+    },
+    {
+      "tag": "name",
+      "questions": [
+        "what is your name",
+        "who are you"
+      ],
+      "answers": [
+        "i am a titans bot",
+        "my name is titans bot"
+      ]
+    },
+    {
+      "tag": "titans bot",
+      "questions": [
+        "how can you help me"
+      ],
+      "answers": [
+        "I can help you with any kind of banking queries!"
+      ]
+    },
+    {
+      "tag": "titans languages",
+      "questions": [
+        "which languages do you speak?"
+      ],
+      "answers": [
+        "just English. But I'm trying to learn new languages"
+      ]
+    },
+    {
+      "tag": "accounts",
+      "questions": [
+        "account opening"
+      ],
+      "answers": [
+        "Required documents to open account is your id such as passport or BRP. BRP is the best. you can come the bank and opened the account"
+      ]
+    },
+    {
+      "tag": "manage accounts",
+      "questions": [
+        "manage account"
+      ],
+      "answers": [
+        "You can quickly and easily update your personal details by logging on to our Mobile Banking app or Online Banking."
+      ]
+    },
+    {
+      "tag": "blocked account details",
+      "questions": [
+        "how can i unblock my account?"
+      ],
+      "answers": [
+        "If your account gets blocked, please contact your nearest Customer Call Centre (for Credit Cards) and Banking centre (for Debit Cards)."
+      ]
+    },
+    {
+      "tag": "initial deposit",
+      "questions": [
+        "What is the initial deposit amount required to open the flexible account?"
+      ],
+      "answers": [
+        "The initial deposit amount to open a flexible current account is £5."
+      ]
+    },
+    {
+      "tag": "update security key",
+      "questions": [
+        "help with my security key"
+      ],
+      "answers": [
+        "You can quickly and easily update your security key by logging on to our Mobile Banking app or Online Banking."
+      ]
+    },
+    {
+      "tag": "payments and transfers",
+      "questions": [
+        "details about my payments and transfers"
+      ],
+      "answers": [
+        "You can know your payments and transfers details by logging on to our Mobile Banking app or Online Banking."
+      ]
+    },
+    {
+      "tag": "pending transactions",
+      "questions": [
+        "where can i see my pending transactions details"
+      ],
+      "answers": [
+        "You can get your pending transactions details by logging on to our Mobile Banking app or Online Banking. There’ll you see any payments or deposits that haven’t yet been debited from, or credited to your account."
+      ]
+    },
+    {
+      "tag": "loan eligibility",
+      "questions": [
+        "How will bank decide my home loan eligibility"
+      ],
+      "answers": [
+        "bank assess the customer's repayment capacity based on income, age, credit score, qualifications, number of dependants, spouse's income, assets, liabilities, stability and continuity of occupation, and savings history."
+      ]
+    },
+    {
+      "tag": "loan information",
+      "questions": [
+        "how can i get loan details?"
+      ],
+      "answers": [
+        "You can visit your nearest banking branch and get full details."
+      ]
+    },
+    {
+      "tag": "repay loan early",
+      "questions": [
+        "What if I want to repay the loan earlier than the due date"
+      ],
+      "answers": [
+        "If you want to repay your loan earlier than the due date, feel free to do so."
+      ]
+    },
+    {
+      "tag": "card details",
+      "questions": [
+        "How can i know my card details?"
+      ],
+      "answers": [
+        "You can know your card details by logging on to our Mobile Banking app or Online Banking and click on card controls."
+      ]
+    },
+    {
+      "tag": "cards",
+      "questions": [
+        "activate new card"
+      ],
+      "answers": [
+        "When your new card arrives, you'll need to activate it before you can use it. The fastest way to do this is on our Mobile Banking app or Online Banking."
+      ]
+    },
+    {
+      "tag": "forgot PIN",
+      "questions": [
+        "I've forgot my PIN what should i do?"
+      ],
+      "answers": [
+        "If you’ve forgotten the PIN for your credit card, you can view a reminder on the Mobile Banking App."
+      ]
+    },
+    {
+      "tag": "contactless cards",
+      "questions": [
+        "Using contactless feature"
+      ],
+      "answers": [
+        "You’ll need to make one transaction using your PIN to activate the contactless feature."
+      ]
+    },
+    {
+      "tag": "edit ATM limit",
+      "questions": [
+        "how can i edit my ATM limit?"
+      ],
+      "answers": [
+        "To increase or decrease your ATM withdrawal limit (subject to your available balance), please log on to your Mobile or Online Banking."
+      ]
+    },
+    {
+      "tag": "stolen card",
+      "questions": [
+        "need information about stolen or lost card"
+      ],
+      "answers": [
+        "If your card is lost or stolen, or likely to be misused, then please report this immediately using our Mobile App or Online Banking."
+      ]
+    },
+    {
+      "tag": "bye",
+      "questions": [
+        "bye",
+        "good day",
+        "goodbye"
+      ],
+      "answers": [
+        "thank you for chatting with us",
+        "bye"
+      ]
+    }
+  ]
+}
